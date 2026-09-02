@@ -1,340 +1,260 @@
 <div align="center">
 
-# MOHAMMAD HOSSEIN DARZI
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1D4ED8,100:7C3AED&height=230&section=header&text=Mohammad%20Hossein%20Darzi&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Computer%20Vision%20%7C%20AI%20%7C%20Research%20%7C%20Innovation&descAlignY=58&descSize=17"/>
 
-### Machine Learning Engineer · Computer Vision Engineer · AI Instructor · Researcher · Inventor
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=60A5FA&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Computer+Vision+Engineer;Artificial+Intelligence+Instructor;Researcher+%26+Inventor;Building+practical+AI+systems" alt="Typing SVG" />
+</a>
 
-<br>
+<br/>
 
-![Machine Learning](https://img.shields.io/badge/MACHINE%20LEARNING-ENGINEERING-2563EB?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/COMPUTER%20VISION-OpenCV-7C3AED?style=for-the-badge)
-![Research](https://img.shields.io/badge/AI%20%2B%20IoT-RESEARCH-4F46E5?style=for-the-badge)
-![Instructor](https://img.shields.io/badge/UNIVERSITY-AI%20INSTRUCTOR-1D4ED8?style=for-the-badge)
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohammad-hossein-darzi)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/mohammadhosseindarzi)
-[![ORCID](https://img.shields.io/badge/ORCID-Research-A6CE39?style=flat-square\&logo=orcid\&logoColor=white)](https://orcid.org/0009-0007-1504-4830)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:mohammadhosseinmhd11@gmail.com)
+<a href="https://www.linkedin.com/in/mohammad-hossein-darzi">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Hossein%20Darzi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.kaggle.com/mohammadhosseindarzi">
+  <img src="https://img.shields.io/badge/Kaggle-mohammadhosseindarzi-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+<a href="https://orcid.org/0009-0007-1504-4830">
+  <img src="https://img.shields.io/badge/ORCID-0009--0007--1504--4830-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
+<a href="mailto:mohammadhosseinmhd11@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## `> whoami`
+## 👨‍💻 About Me
 
-I'm **Mohammad Hossein Darzi**, a Machine Learning Engineer working across **machine learning, computer vision, image processing, intelligent IoT systems, and applied AI**.
+I'm **Mohammad Hossein Darzi**, a **Machine Learning Engineer**, **Computer Vision Engineer**, university AI instructor, researcher, and inventor from Tehran, Iran.
 
-My background combines five areas that I actively bring together:
+My work focuses on applying **Machine Learning, Computer Vision, Image Processing, IoT, and intelligent software systems** to practical problems.
 
-```text
-Machine Learning
-      +
-Computer Vision
-      +
-Software Engineering
-      +
-Research
-      +
-Physical Intelligent Systems
-```
+I enjoy going beyond simply training a model — understanding the data, choosing the right approach, evaluating performance, writing clean code, and turning technical ideas into usable systems.
 
-I build ML projects, develop computer-vision applications, teach Artificial Intelligence, conduct AI/IoT research, and design technology intended for real-world use.
-
-**Current role:** Artificial Intelligence Instructor at Islamic Azad University
-**Location:** Tehran, Iran
-**Primary language:** Python
-**Primary focus:** Machine Learning Engineering
+* 🤖 Focused on **Machine Learning Engineering & Applied AI**
+* 👁️ Building projects in **Computer Vision & Image Processing**
+* 🎓 **Artificial Intelligence Instructor** at Islamic Azad University
+* 🔬 Active in **AI, IoT, and intelligent safety systems research**
+* 💡 Inventor of the **Smart Baby Stroller**
+* 🏅 Recipient of multiple **national and international invention awards**
+* 📚 Interested in ML systems, model evaluation, intelligent IoT, automation, and real-world AI applications
 
 ---
 
-# `01 // ENGINEERING`
+# 🧠 Tech Stack
 
-## Machine Learning
-
-I work with supervised learning, classification, regression, feature preprocessing, model evaluation, experimentation, and data-driven problem solving.
-
-<p>
+### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 🤖 Machine Learning & Data
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge\&logo=scipy\&logoColor=white)
 
-</p>
-
----
-
-## Computer Vision & Image Processing
-
-Computer Vision is one of my main technical interests, particularly practical systems that extract useful information from images and video.
-
-<p>
+### 👁️ Computer Vision & Visualization
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)
 
-</p>
+### 🌐 Backend & APIs
 
----
-
-## Software & Systems
-
-<p>
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Basic-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+
+### 🗄️ Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
-</p>
-
----
-
-## Engineering Tools
-
-<p>
+### 🔧 Engineering Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
-</p>
-
----
-
-## Embedded Intelligence
-
-<p>
+### ⚡ IoT & Embedded Systems
 
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge\&logo=arduino\&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge\&logo=espressif\&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-Intelligent%20Systems-7C3AED?style=for-the-badge)
-
-</p>
 
 ---
 
-# `02 // SELECTED PROJECTS`
+# 🚀 Featured Engineering Projects
 
-These repositories represent the areas I currently want my GitHub profile to be judged on.
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 👁️ Face Anonymizer
 
-**Computer Vision · OpenCV · Python**
+<a href="https://github.com/MohammadHosseinDarzi/Face-Anonymizer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadHosseinDarzi&repo=Face-Anonymizer&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
 
-A privacy-oriented computer-vision application that detects human faces and automatically anonymizes them through image processing.
+**Computer Vision privacy application** that detects human faces and automatically anonymizes them using image processing.
 
-**What it demonstrates**
+`Python` `OpenCV` `Computer Vision` `Image Processing`
 
-`Face Detection` · `Image Processing` · `Computer Vision Pipeline`
+</td>
 
-→ [View Repository](https://github.com/MohammadHosseinDarzi/Face-Anonymizer)
-
----
+<td width="50%" valign="top">
 
 ### ❤️ Heart Disease Classification
 
-**Machine Learning · Classification · Scikit-learn**
+<a href="https://github.com/MohammadHosseinDarzi/KNN-Heart-Disease-Classification">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadHosseinDarzi&repo=KNN-Heart-Disease-Classification&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
 
-A machine-learning classification project using patient health information with preprocessing, feature scaling, train/test separation, KNN modeling, and evaluation.
+Machine Learning classification project using patient health features, preprocessing, feature scaling, train/test splitting, KNN, and model evaluation.
 
-**What it demonstrates**
+`Python` `Scikit-learn` `Pandas` `Classification`
 
-`Data Preprocessing` · `Feature Scaling` · `Classification` · `Model Evaluation`
+</td>
+</tr>
 
-→ [View Repository](https://github.com/MohammadHosseinDarzi/KNN-Heart-Disease-Classification)
-
----
+<tr>
+<td width="50%" valign="top">
 
 ### 🎓 University Admission Prediction
 
-**Machine Learning · Regression · Data Analysis**
+<a href="https://github.com/MohammadHosseinDarzi/University-Admission-Prediction">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadHosseinDarzi&repo=University-Admission-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
 
-A predictive ML project that estimates university-admission probability using academic variables including GRE and TOEFL performance.
+Machine Learning project for predicting university admission chances using academic indicators such as GRE, TOEFL, and other applicant features.
 
-**What it demonstrates**
+`Python` `Machine Learning` `Data Analysis` `Regression`
 
-`Regression` · `Data Analysis` · `Predictive Modeling`
+</td>
 
-→ [View Repository](https://github.com/MohammadHosseinDarzi/University-Admission-Prediction)
+<td width="50%" valign="top">
 
----
+### 👶 Smart Baby Stroller
 
-### 📊 Social Network Purchase Classification
+<a href="https://github.com/MohammadHosseinDarzi/The-smart-baby-stroller">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadHosseinDarzi&repo=The-smart-baby-stroller&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
 
-**Machine Learning · Logistic Regression**
+An award-winning intelligent stroller combining embedded systems, sensors, automation, and connected technologies to improve child safety and comfort.
 
-A classification project predicting product-purchase behavior from demographic variables.
+`C++` `IoT` `Embedded Systems` `Sensors` `Automation`
 
-**What it demonstrates**
-
-`Logistic Regression` · `Classification` · `Decision Boundaries` · `Evaluation`
-
-→ [View Repository](https://github.com/MohammadHosseinDarzi/logistic-regression-social-network-ads)
-
----
-
-# `03 // FLAGSHIP INNOVATION`
-
-## 👶 Smart Baby Stroller
-
-**IoT · Embedded Systems · Automation · Intelligent Safety**
-
-The **Smart Baby Stroller** is one of my main engineering and invention projects.
-
-It combines embedded hardware, sensors, automation, connected technologies, and intelligent safety concepts to improve child transportation, monitoring, comfort, and protection.
-
-```text
-Sensors
-   ↓
-Embedded Processing
-   ↓
-Safety Logic
-   ↓
-Automation
-   ↓
-Connected Control
-```
-
-→ [View Repository](https://github.com/MohammadHosseinDarzi/The-smart-baby-stroller)
-
-### Recognition
-
-🥇 **Gold Medal** — AIRO CUP National Invention Competition, 2026
-
-🥈 **Silver Medal + Special Award** — AIIE USA 2025
-
-🥇 **Gold Medal + Special Award** — Development Invention Show, Dubai 2024
-
-This project also became the basis for academic research and conference work.
-
----
-
-# `04 // RESEARCH`
-
-My research sits primarily at the intersection of:
-
-```text
-Artificial Intelligence
-Machine Learning
-Internet of Things
-Computer Vision
-Intelligent Safety Systems
-Embedded Intelligence
-```
-
-### Selected Research
-
-**Conceptual Design of an Intelligent IoT and AI-Based System for Monitoring Vital Signs and Safety of Workers in Underground Mines**
-
-Conceptual research on combining IoT sensing, intelligent monitoring, and Artificial Intelligence to improve worker safety.
-
----
-
-**Designing and Implementing a Smart Baby Stroller Based on the Internet of Things**
-
-Research derived from the Smart Baby Stroller project and accepted for oral presentation at the **5th Student Conference on Computer Engineering and Information & Communication Technology**.
-
-→ [ORCID Research Profile](https://orcid.org/0009-0007-1504-4830)
-
----
-
-# `05 // EXPERIENCE`
-
-<details>
-<summary><b>🎓 Artificial Intelligence Instructor — Islamic Azad University</b></summary>
-
-<br>
-
-**Jul 2026 – Present · Tehran, Iran**
-
-Designing and delivering Artificial Intelligence education with an emphasis on practical understanding and hands-on technical work.
-
-* AI and programming instruction
-* Project-based learning
-* Technical mentoring
-* Connecting theoretical concepts to implementation
-
-</details>
-
-<br>
-
-<details>
-<summary><b>💻 Full-Stack & Machine Learning Engineer — Fatima Travel Agency</b></summary>
-
-<br>
-
-**May 2025 – May 2026 · Remote**
-
-Worked on software and Machine Learning solutions supporting business processes and data-driven decision making.
-
-* Machine Learning solutions
-* Intelligent service concepts
-* Web application development
-* Workflow automation
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🐍 Python & AI Instructor — 249 School</b></summary>
-
-<br>
-
-**Sep 2025 – Dec 2025 · Remote**
-
-Taught Python, algorithmic thinking, Git, GitHub, debugging, APIs, and automation through practical programming projects.
-
-</details>
-
----
-
-# `06 // PROOF MAP`
-
-| Area                   | Evidence                                                                |
-| ---------------------- | ----------------------------------------------------------------------- |
-| **Machine Learning**   | Heart Disease Classification, Admission Prediction, Logistic Regression |
-| **Computer Vision**    | Face Anonymizer                                                         |
-| **Image Processing**   | OpenCV projects                                                         |
-| **IoT / Embedded**     | Smart Baby Stroller                                                     |
-| **Research**           | AI + IoT worker-safety research                                         |
-| **Teaching**           | Artificial Intelligence Instructor                                      |
-| **Innovation**         | National & international invention awards                               |
-| **Python Engineering** | Public Python repositories & applied projects                           |
-
----
-
-# `07 // PROFESSIONAL PROFILES`
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-MohammadHosseinDarzi-181717?style=for-the-badge\&logo=github)](https://github.com/MohammadHosseinDarzi)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Hossein%20Darzi-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/mohammad-hossein-darzi)
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-mohammadhosseindarzi-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/mohammadhosseindarzi)
-
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--1504--4830-A6CE39?style=for-the-badge\&logo=orcid\&logoColor=white)](https://orcid.org/0009-0007-1504-4830)
-
-[![Email](https://img.shields.io/badge/Email-mohammadhosseinmhd11%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mohammadhosseinmhd11@gmail.com)
+### 🔎 [Explore All Repositories →](https://github.com/MohammadHosseinDarzi?tab=repositories)
 
 </div>
 
 ---
 
+# 🏆 Innovation & Recognition
+
+### 👶 Smart Baby Stroller
+
+One of my main innovation projects combines **embedded systems, intelligent sensing, automation, IoT, and assistive technology** to improve baby transportation safety and comfort.
+
+The project has received recognition at multiple national and international invention competitions.
+
+🏅 **Gold Medal** — AIRO CUP National Invention Competition, 2026
+🥈 **Silver Medal & Special Award** — AIIE USA 2025
+🥇 **Gold Medal & Special Award** — Development Invention Show, Dubai 2024
+
+The project has also been the basis of my academic research and conference work.
+
+---
+
+# 🔬 Research
+
+My research interests are centered around the intersection of:
+
+`Artificial Intelligence` • `Machine Learning` • `IoT` • `Intelligent Safety Systems` • `Computer Vision`
+
+### 📄 Selected Research Work
+
+**Conceptual Design of an Intelligent IoT and AI-based System for Monitoring Vital Signs and Safety of Workers in Underground Mines**
+
+Research focused on the conceptual architecture of an intelligent worker-safety system combining IoT sensing and Artificial Intelligence.
+
+**Designing and Implementing a Smart Baby Stroller based on the Internet of Things (IoT)**
+
+Accepted for oral presentation at the **5th Student Conference on Computer Engineering and Information & Communication Technology**.
+
 <div align="center">
 
-### MACHINE LEARNING · COMPUTER VISION · RESEARCH · INTELLIGENT SYSTEMS
+<a href="https://orcid.org/0009-0007-1504-4830">
+<img src="https://img.shields.io/badge/View%20My%20Research-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
 
-`Tehran, Iran`
+</div>
+
+---
+
+# 🎓 Experience Snapshot
+
+### 🧠 Artificial Intelligence Instructor
+
+**Islamic Azad University**
+`Jul 2026 – Present`
+
+Teaching Artificial Intelligence through practical, project-oriented instruction and helping students connect theoretical concepts with real-world applications.
+
+### 💻 Full-Stack & Machine Learning Engineer
+
+**Fatima Travel Agency**
+`May 2025 – May 2026`
+
+Worked on Machine Learning solutions, intelligent service concepts, web applications, workflow automation, and data-driven systems.
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammadHosseinDarzi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=MohammadHosseinDarzi&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+I'm open to opportunities and collaborations involving **Machine Learning, Computer Vision, applied AI, intelligent systems, research, and technology innovation**.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/mohammad-hossein-darzi">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/mohammadhosseindarzi">
+<img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="mailto:mohammadhosseinmhd11@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:0D1117&height=120&section=footer"/>
 
 </div>
