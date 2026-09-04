@@ -98,7 +98,6 @@ I enjoy going beyond simply training a model — understanding the data, choosin
 ### 👁️ Face Anonymizer
 
 <a href="https://github.com/MohammadHosseinDarzi/Face-Anonymizer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadHosseinDarzi&repo=Face-Anonymizer&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
 
 **Computer Vision privacy application** that detects human faces and automatically anonymizes them using image processing.
@@ -112,7 +111,6 @@ I enjoy going beyond simply training a model — understanding the data, choosin
 ### ❤️ Heart Disease Classification
 
 <a href="https://github.com/MohammadHosseinDarzi/KNN-Heart-Disease-Classification">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadHosseinDarzi&repo=KNN-Heart-Disease-Classification&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
 
 Machine Learning classification project using patient health features, preprocessing, feature scaling, train/test splitting, KNN, and model evaluation.
@@ -128,7 +126,6 @@ Machine Learning classification project using patient health features, preproces
 ### 🎓 University Admission Prediction
 
 <a href="https://github.com/MohammadHosseinDarzi/University-Admission-Prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadHosseinDarzi&repo=University-Admission-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
 
 Machine Learning project for predicting university admission chances using academic indicators such as GRE, TOEFL, and other applicant features.
@@ -142,7 +139,6 @@ Machine Learning project for predicting university admission chances using acade
 ### 👶 Smart Baby Stroller
 
 <a href="https://github.com/MohammadHosseinDarzi/The-smart-baby-stroller">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadHosseinDarzi&repo=The-smart-baby-stroller&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
 
 An award-winning intelligent stroller combining embedded systems, sensors, automation, and connected technologies to improve child safety and comfort.
